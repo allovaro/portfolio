@@ -33,6 +33,7 @@ module.exports = {
         'class-methods-use-this': 'off',
         'react/no-unused-state': 'warn',
         'react/prefer-stateless-function': 'warn',
+        'react/function-component-definition': 'off',
         'no-useless-constructor': 'warn',
         'no-empty-function': 'warn',
         'no-unused-vars': 'warn',
