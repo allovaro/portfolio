@@ -2,6 +2,9 @@ import solidityLogo from '../../images/solidity_logo.png';
 import ethereumLogo from '../../images/ethereum_logo.png';
 import remix from '../../images/remix.png';
 import truffle from '../../images/truffle.png';
+import openzeppelin from '../../images/openzeppelin.jpeg';
+import infura from '../../images/infura.png';
+import hardhat from '../../images/hardhat.png';
 import javascript from '../../images/javascript.png';
 import react from '../../images/react.png';
 import html5 from '../../images/html5.png';
@@ -28,20 +31,21 @@ const skills = {
             text: 'Truffle',
             index: 14,
         }],
+
     column2: [
         {
-            image: javascript,
-            text: 'Javascript',
+            image: hardhat,
+            text: 'HardHat',
             index: 21,
         },
         {
-            image: html5,
-            text: 'HTML/CSS',
+            image: infura,
+            text: 'Infura',
             index: 22,
         },
         {
-            image: react,
-            text: 'React',
+            image: openzeppelin,
+            text: 'OpenZeppelin',
             index: 23,
         },
         {
@@ -51,23 +55,23 @@ const skills = {
         }],
     column3: [
         {
-            image: ethereumLogo,
-            text: 'Ethereum',
+            image: javascript,
+            text: 'Javascript',
             index: 31,
         },
         {
-            image: solidityLogo,
-            text: 'Solidity',
+            image: html5,
+            text: 'HTML/CSS',
             index: 32,
         },
         {
-            image: solidityLogo,
-            text: 'Solidity',
+            image: react,
+            text: 'React',
             index: 33,
         },
         {
             image: solidityLogo,
-            text: 'Solidity',
+            text: 'Redux',
             index: 34,
         }],
     column4: [
